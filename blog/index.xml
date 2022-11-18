@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Cybersec.Reviews</title>
+    <link>http://he5150.github.io/blog/</link>
+    <description>Recent content in Blogs on Cybersec.Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2022 14:06:01 -0800</lastBuildDate><atom:link href="http://he5150.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming Soon</title>
+      <link>http://he5150.github.io/blog/comingsoon/</link>
+      <pubDate>Fri, 18 Nov 2022 14:06:01 -0800</pubDate>
+      
+      <guid>http://he5150.github.io/blog/comingsoon/</guid>
+      <description>There is nothing here right now. Follow me on Instagram @Cybersec.Reviews and Twitter @CybersecReviews</description>
+    </item>
+    
+  </channel>
+</rss>
