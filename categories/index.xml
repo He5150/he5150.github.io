@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cybersec.Reviews</title>
-    <link>http://he5150.github.io/categories/</link>
+    <link>https://cybersec.reviews/categories/</link>
     <description>Recent content in Categories on Cybersec.Reviews</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://he5150.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://cybersec.reviews/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
