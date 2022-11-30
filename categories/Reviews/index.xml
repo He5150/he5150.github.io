@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on </title>
+    <link>https://cybersec.reviews/categories/reviews/</link>
+    <description>Recent content in Reviews on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2022 14:07:01 -0800</lastBuildDate><atom:link href="https://cybersec.reviews/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review1</title>
+      <link>https://cybersec.reviews/reviews/testreview/</link>
+      <pubDate>Fri, 18 Nov 2022 14:07:01 -0800</pubDate>
+      
+      <guid>https://cybersec.reviews/reviews/testreview/</guid>
+      <description>Key Points  Release date Author/Creator Subjects Medium Length Price Link  Review Disclamer My goal is to provide honest and consistent reviews that can help others decide if an educational resource is right for them. Due to this, reviews are not influenced by discounts given, affiliate marketing, or if it is given for free. However, if you decide this resource is right for you, it is very appreciated to use any noted affiliate links as this will help Cybersec.</description>
+    </item>
+    
+  </channel>
+</rss>

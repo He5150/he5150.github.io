@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cybersec.Reviews</title>
+    <title></title>
     <link>https://cybersec.reviews/</link>
-    <description>Recent content on Cybersec.Reviews</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Nov 2022 14:06:01 -0800</lastBuildDate><atom:link href="https://cybersec.reviews/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://cybersec.reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coming Soon</title>
-      <link>https://cybersec.reviews/blog/comingsoon/</link>
+      <title>About &amp; Contact</title>
+      <link>https://cybersec.reviews/aboutme/</link>
       <pubDate>Fri, 18 Nov 2022 14:06:01 -0800</pubDate>
       
-      <guid>https://cybersec.reviews/blog/comingsoon/</guid>
+      <guid>https://cybersec.reviews/aboutme/</guid>
       <description>There is nothing here right now. Follow me on Instagram @Cybersec.Reviews and Twitter @CybersecReviews</description>
     </item>
     
